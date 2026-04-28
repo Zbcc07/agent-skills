@@ -1,0 +1,23 @@
+{
+  "name": "frontend-code-generator-vue3",
+  "version": "1.0.0",
+  "description": "前端页面重构 Skill，基于设计稿（Figma/截图）输出高度还原的 Vue3 规范页面代码",
+  "main": "SKILL.md",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "keywords": [
+    "frontend",
+    "vue3",
+    "figma",
+    "design-to-code",
+    "重构"
+  ],
+  "author": "huanzhang",
+  "license": "MIT",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gent-skills/skills/frontend-code-generator-vue3"
+  }
+}
